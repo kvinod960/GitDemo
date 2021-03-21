@@ -6,6 +6,8 @@
       <class name="qaclickacademy.AppiumTest"/>
       <class name="qaclickacademy.SeleniumTest"/>
       <class name="qaclickacademy.RestAPITest"/>
+      <class name="qaclickacademy.RestAPITest"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
